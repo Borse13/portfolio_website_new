@@ -698,7 +698,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="text-white font-medium">Phone</p>
-                      <p className="text-gray-400">+91 93079 53744</p>
+                      <p className="text-gray-400">+91 92707 88959</p>
                     </div>
                   </div>
                 </div>
