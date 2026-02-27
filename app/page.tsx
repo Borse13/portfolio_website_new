@@ -112,6 +112,18 @@ export default function Portfolio() {
       details:
         "A visually appealing landing website designed to effectively promote the Laundry Application. The website aims to attract potential users by showcasing the application's features, benefits, and user testimonials, ultimately driving user engagement and conversions.",
     },
+     {
+      id: 6,
+      title: "SBI YONO Redesign: QR Onboarding → Banking Super App (iOS)",
+      description:
+        "Complete redesign of  banking app (12Cr+ users) with ATM QR onboarding, UPI payments, card limits, insights, and wealth management.",
+      image: "/sbiyono.png?height=450&width=400",
+      tech: ["Figma", "iOS Design System", "RBI Compliance Research"],
+      github: "#",
+      live: "https://www.figma.com/proto/VyA7Rnh4Dxn3kTIaSHHLC3/Untitled?node-id=554-633&t=Pz685OaTIQRKQIoZ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=565%3A651&show-proto-sidebar=1",
+      details:
+        "50‑screen fintech masterpiece fixing onboarding dropoff (QR scan → MFIN), UPI payments, card controls, spend analytics, and SIP investing. Enterprise UX with regulatory compliance. Key flows: ATM QR auto‑fetches accounts → Instant dashboard → Banking + Wealth suite.",
+    },
   ];
 
   const experiences = [
