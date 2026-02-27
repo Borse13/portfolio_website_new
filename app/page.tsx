@@ -123,7 +123,7 @@ export default function Portfolio() {
       live: "https://www.figma.com/proto/VyA7Rnh4Dxn3kTIaSHHLC3/Untitled?node-id=554-633&t=Pz685OaTIQRKQIoZ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=565%3A651&show-proto-sidebar=1",
       details:
         "50‑screen fintech masterpiece fixing onboarding dropoff (QR scan → MFIN), UPI payments, card controls, spend analytics, and SIP investing. Enterprise UX with regulatory compliance. Key flows: ATM QR auto‑fetches accounts → Instant dashboard → Banking + Wealth suite.",
-    },
+    }
   ];
 
   const experiences = [
