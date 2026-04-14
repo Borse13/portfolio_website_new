@@ -133,11 +133,7 @@ export default function Portfolio() {
       period: "1 Year",
       location: "Wakad, Pune",
       description:
-        "- Developed enterprise-grade web applications using C#, .NET Framework, and PostgreSQL"+
-"- Built a comprehensive task management system to streamline daily operations and worklog tracking"+
-"- Optimized database queries and backend logic, improving system performance by 30%"+
-"- Reduced manual tracking efforts by 50% through automation of workflows and reporting modules"+
-"- Collaborated with cross-functional teams to deliver scalable and maintainable solutions",
+        "- Developed enterprise-grade web applications using C#, .NET Framework, and PostgreSQL\n- Built a comprehensive task management system to streamline daily operations and worklog tracking\n- Optimized database queries and backend logic, improving system performance by 30%\n- Reduced manual tracking efforts by 50% through automation of workflows and reporting modules\n- Collaborated with cross-functional teams to deliver scalable and maintainable solutions",
     },
     {
       title: "Graphics Designer",
