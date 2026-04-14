@@ -133,7 +133,11 @@ export default function Portfolio() {
       period: "1 Year",
       location: "Wakad, Pune",
       description:
-        "Developing enterprise web applications using C#, .NET Framework, and PostgreSQL. Built comprehensive task management system for daily operations and worklog management.",
+        "- Developed enterprise-grade web applications using C#, .NET Framework, and PostgreSQL"+
+"- Built a comprehensive task management system to streamline daily operations and worklog tracking"+
+"- Optimized database queries and backend logic, improving system performance by 30%"+
+"- Reduced manual tracking efforts by 50% through automation of workflows and reporting modules"+
+"- Collaborated with cross-functional teams to deliver scalable and maintainable solutions",
     },
     {
       title: "Graphics Designer",
@@ -142,6 +146,14 @@ export default function Portfolio() {
       location: "Aundh, Pune",
       description:
         "Designed multiple products and marketing graphics for client websites, with hands-on experience in Figma and Canva.",
+    },
+      {
+      title: "UI/UX Design Intern",
+      company: " Cognitexx Pvt. Ltd",
+      period: "1 Year",
+      location: "Aundh, Pune",
+      description:
+        "Designed end-to-end UI for multiple client products spanning mobile apps and responsive web platforms, Conducted user research and usability testing to validate design decisions before handoff",
     },
     {
       title: "UI/UX Developer",
