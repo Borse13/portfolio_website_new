@@ -52,18 +52,18 @@ export default function Portfolio() {
   ];
 
   const projects = [
-    {
-      id: 1,
-      title: "Bank Management System (Frontend Design)",
-      description:
-        "Complete banking solution with user and admin modules for account management and transactions",
-      image: "/bank management.jpg?height=300&width=400",
-      tech: ["HTML", "JavaScript", "Postgres", "Vercel"],
-      github: "#",
-      live: "#",
-      details:
-        "Bank Management System helps users perform all banking related activities such as creating accounts and performing debit/credit transactions. Features two modules: user module for account statements and balance checking, and admin module for reviewing and approving new account requests.",
-    },
+    // {
+    //   id: 1,
+    //   title: "Bank Management System (Frontend Design)",
+    //   description:
+    //     "Complete banking solution with user and admin modules for account management and transactions",
+    //   image: "/bank management.jpg?height=300&width=400",
+    //   tech: ["HTML", "JavaScript", "Postgres", "Vercel"],
+    //   github: "#",
+    //   live: "#",
+    //   details:
+    //     "Bank Management System helps users perform all banking related activities such as creating accounts and performing debit/credit transactions. Features two modules: user module for account statements and balance checking, and admin module for reviewing and approving new account requests.",
+    // },
     {
       id: 2,
       title: "Product Image Designing (Graphics Design)",
